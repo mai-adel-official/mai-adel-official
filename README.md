@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm <span color="#61DAFB">Mai Adel</span></h1>
-<h3>✨ Front-End Developer | Crafting Modern & Responsive Web Experiences ✨</h3>
+<h3>✨ Front-End Developer | Responsive Web Experiences ✨</h3>
 
 <br>
 
@@ -11,7 +11,6 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mai-adel&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmai-adel&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
@@ -32,7 +31,7 @@
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Building interactive and responsive web pages. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Practicing layout challenges on **Frontend Mentor**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about **HTML, CSS, JavaScript, Responsive Web Design, or UI/UX**. <br>
+
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Explore my work: **[My Portfolio](https://mai-adel-portfolio.vercel.app)**<br>
 
 <hr>
@@ -56,20 +55,6 @@
 > 🔗 **[Live Preview 🚀](https://your-bootstrap-project.vercel.app)** | **Tech:** HTML5 • CSS3 • Bootstrap 5
 > <hr>
 
-<hr>
 
-<div align="center">
 
-### 📊 GitHub Activity & Statistics
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mai-adel-official&theme=nord&hide_border=true&area=true" width="100%" />
-
-<br><br>
-
-<img src="https://github-stats-extended.vercel.app/api?username=mai-adel-official&show_icons=true&theme=nord&hide_border=true" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mai-adel-official&layout=compact&theme=nord&hide_border=true" width="48%" />
-
-</div>
 </div>
