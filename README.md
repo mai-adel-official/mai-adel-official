@@ -30,12 +30,46 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-```javascript
-// Front-End Tech Stack & Toolkit
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> Building interactive and responsive web pages. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> Practicing layout challenges on **Frontend Mentor**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about **HTML, CSS, JavaScript, Responsive Web Design, or UI/UX**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Explore my work: **[My Portfolio](https://mai-adel-portfolio.vercel.app)**<br>
 
-const maiAdel = {
-  core: ["HTML5", "CSS3", "JavaScript (ES6+)"],
-  stylingFrameworks: ["Tailwind CSS", "Bootstrap"],
-  toolsAndDeployment: ["Git", "GitHub", "VS Code", "Vercel", "Figma"],
-  architectureFocus: ["Responsive Web Design", "Clean Code", "UI/UX Precision"]
-};
+<hr>
+
+### 🚀 My Featured Projects
+
+> 💻 **Personal Portfolio**  
+> *A clean and fully responsive web development portfolio showcasing my front-end skills and projects.*  
+> 🔗 **[Live Preview 🚀](https://mai-adel-portfolio.vercel.app)** | **Tech:** HTML5 • CSS3 • JavaScript
+
+---
+
+> 🌐 **Social Links Showcase**  
+> *An interactive and styled links page designed with Tailwind CSS.*  
+> 🔗 **[Live Preview 🚀](https://mai-social-media-account.vercel.app)** | **Tech:** HTML5 • Tailwind CSS
+
+---
+
+> 🎨 **Bootstrap Project**  
+> *A responsive web page built using Bootstrap 5 components and clean design principles.*  
+> 🔗 **[Live Preview 🚀](https://your-bootstrap-project.vercel.app)** | **Tech:** HTML5 • CSS3 • Bootstrap 5
+> <hr>
+
+<hr>
+
+<div align="center">
+
+### 📊 GitHub Activity & Statistics
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mai-adel-official&theme=nord&hide_border=true&area=true" width="100%" />
+
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=mai-adel-official&show_icons=true&theme=nord&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mai-adel-official&layout=compact&theme=nord&hide_border=true" width="48%" />
+
+</div>
+</div>
